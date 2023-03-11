@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login and Scale text</string>
+    <string name="email_adress">Email adress</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Don\'t have an account? Sign up</string>
+    <string name="todo">TODO</string>
+    <string name="or_login_social_media">Or login social media</string>
+</resources>
